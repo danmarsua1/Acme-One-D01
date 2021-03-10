@@ -10,7 +10,7 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #FFE97F 
+master.banner.background = #353535 
 
 # master.welcome ##############################################################
 
@@ -28,7 +28,8 @@ master.menu.sign-out = Sign out
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous
-master.menu.anonymous.martinez-favourite-link = Martinez's link
+master.menu.anonymous.favourite-link = Favourite link
+master.menu.anonymous.martinez-favourite-link = Martinez's favourite link
 
 # master.menu.administrator ###################################################
 
@@ -72,11 +73,10 @@ master.footer.label.spanish = Spanish
 
 # master.company ##############################################################
 
-master.company.title = La compañía
+master.company.title = The company
 master.company.text = \
-	Acme One, Inc. is a fictitious fictitious company that provides a \
-	starter project for the students of the Design and Testing subject of the \
-	Software Engineering Curriculum of the University of Sevilla.
+	Acme One, Inc. This project helps students to start working on a formal information system \
+	as project in Design & Testing II's subject.
 master.company.name = Acme One, Inc.
 master.company.address = Number Street, City, State, Country
 master.company.phone = +000 123 456
